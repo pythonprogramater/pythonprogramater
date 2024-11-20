@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murilopython
-- 👀 I’m interested in games
-- 🌱 I’m currently learning python
+- 👀 I’m interested in descovery the world
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on loving
 - 📫 How to reach me ...
 - 😄 Pronouns: he
